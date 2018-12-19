@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-12-19T22:24:50.4812027Z",
+  "lastPlayed": "2018-12-19T22:27:39.6492319Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -4956,6 +4956,116 @@
       "dateUpdated": "2017-12-19T22:24:30.6741606Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 226447,
+      "gameInstanceID": "b89b6ee0-c0fb-4bd7-aa97-3489b2da787e",
+      "installedFile": {
+        "id": 2307834,
+        "fileName": "ResourceLoader-MC1.9.4-1.5.1.jar",
+        "fileNameOnDisk": "ResourceLoader-MC1.9.4-1.5.1.jar",
+        "fileDate": "2016-06-15T20:02:26.893",
+        "fileLength": 12088,
+        "releaseType": 1,
+        "fileStatus": 1,
+        "downloadUrl": "https://files.forgecdn.net/files/2307/834/ResourceLoader-MC1.9.4-1.5.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 980839826
+          },
+          {
+            "folderName": "lumien",
+            "fimgerprint": 1529192133
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3640198440
+          }
+        ],
+        "packageFingerprint": 2750958649,
+        "gameVersion": [
+          "1.10",
+          "1.9.4",
+          "1.10.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2018-12-19T22:27:27.9694606Z",
+      "dateUpdated": "2018-12-19T22:27:27.9714554Z",
+      "dateLastUpdateAttempted": "2018-12-19T22:27:27.9714554Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 226406,
+      "gameInstanceID": "b89b6ee0-c0fb-4bd7-aa97-3489b2da787e",
+      "installedFile": {
+        "id": 2405622,
+        "fileName": "CustomMainMenu-MC1.10.2-2.0.5.jar",
+        "fileNameOnDisk": "CustomMainMenu-MC1.10.2-2.0.5.jar",
+        "fileDate": "2017-04-11T10:45:01.88",
+        "fileLength": 157408,
+        "releaseType": 1,
+        "fileStatus": 1,
+        "downloadUrl": "https://files.forgecdn.net/files/2405/622/CustomMainMenu-MC1.10.2-2.0.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 4216042901
+          },
+          {
+            "folderName": "lumien",
+            "fimgerprint": 2712909170
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 2348093900
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 4279513470
+          },
+          {
+            "folderName": "net",
+            "fimgerprint": 210089498
+          }
+        ],
+        "packageFingerprint": 935055187,
+        "gameVersion": [
+          "1.10.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2018-12-19T22:27:31.7443683Z",
+      "dateUpdated": "2018-12-19T22:27:31.7473598Z",
+      "dateLastUpdateAttempted": "2018-12-19T22:27:31.7473598Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
