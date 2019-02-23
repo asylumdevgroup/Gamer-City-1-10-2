@@ -12,3 +12,11 @@ asm/
 \.analytics/
 
 BotaniaVars\.dat
+
+saves/
+
+backups/
+
+usernamecache\.json
+
+usercache\.json
