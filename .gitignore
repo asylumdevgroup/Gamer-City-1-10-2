@@ -1,22 +1,31 @@
+# Add the following to your gitignore:
 
-mods/
+# Instance Sync
+**/*.jar
+!InstanceSync*.jar
+**/*.jar.disabled
+**/*.jar.meta
+
+# Optional: Generic Modpack Ignores
+**/*.log
+/.mixin.out
+/saves
+/downloads
+/resourcepacks
+.curseclient
+options.txt
+journeymap/
 
 logs/
 
-options\.txt
-
-journeymap/
+backups/
 
 asm/
 
-\.analytics/
+.analytics/
 
-BotaniaVars\.dat
+BotaniaVars.dat
 
-saves/
+usercache.json
 
-backups/
-
-usernamecache\.json
-
-usercache\.json
+usernamecache.json
